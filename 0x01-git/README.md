@@ -1,3 +1,1 @@
-folder for my repo
-cat README.md
-ls
+my doc readme
